@@ -39,7 +39,7 @@ Financial institutions face critical challenges in:
 - **Repayment Analysis**: Status tracking (33.2K Fully Paid vs 5.3K Charged Off)
 - **Interactive Dashboard**: Drill-down capabilities by multiple dimensions
 
-![Details]
+![Details](https://github.com/harshpreetkohli/Bank-Loan-Analytics-MTD-Performance-Risk-Repayment-Trends/blob/main/Details.png)
 
 ## Technical Specifications
 * **Tools**: Power BI Desktop
