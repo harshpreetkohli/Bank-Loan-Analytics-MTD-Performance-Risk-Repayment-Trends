@@ -1,6 +1,6 @@
 # Bank Loan Analytics-MTD Performance-Risk-Repayment Trends (Power BI)
 
-![Summary]()
+![Summary](https://github.com/harshpreetkohli/Bank-Loan-Analytics-MTD-Performance-Risk-Repayment-Trends/blob/main/Summary%20Bank%20Report.png)
 
 
 ## Overview
@@ -34,7 +34,7 @@ Financial institutions face critical challenges in:
 ## Key Features
 - **Risk Segmentation**: Visual breakdown of Good vs Bad Loans
 - **Performance Tracking**: MTD/MoM comparisons for all key metrics
-- **Repayment Analysis**: Status tracking (32.1K Fully Paid vs 5.3K Charged Off)
+- **Repayment Analysis**: Status tracking (33.2K Fully Paid vs 5.3K Charged Off)
 - **Interactive Dashboard**: Drill-down capabilities by multiple dimensions
 
 ## Technical Specifications
@@ -44,8 +44,6 @@ Financial institutions face critical challenges in:
 * **Visualizations**: Custom charts and KPI indicators
 
 ## Dataset Overview
-* Total Loan Applications: 38.6K
-* Total Funded Amount: $435.8M
 * Data Dimensions:
   - Loan Status
   - Risk Grade
