@@ -6,6 +6,8 @@
 ## Overview
 This Power BI dashboard provides comprehensive analytics for bank loan portfolios, tracking Month-to-Date (MTD) performance, risk assessment, and repayment trends. The project aims to help financial institutions make data-driven decisions by visualizing key loan metrics and identifying high-risk segments.
 
+![Overview](https://github.com/harshpreetkohli/Bank-Loan-Analytics-MTD-Performance-Risk-Repayment-Trends/blob/main/Overview.png)
+
 ## Problem Statement
 Financial institutions face critical challenges in:
 1. **Risk Identification**  
@@ -23,12 +25,12 @@ Financial institutions face critical challenges in:
 
 ## Objectives
 * Monitor MTD and Month-over-Month (MoM) loan performance trends
-* Analyze risk distribution between Good Loans ($370.2M) and Bad Loans ($65.5M)
+* Analyze risk distribution between Good Loans and Bad Loans 
 * Track repayment status (Current, Charged Off, Fully Paid) across loan portfolios
 * Evaluate key metrics including:
-  - Total Funded Amount ($435.8M)
-  - Average Interest Rate (12.0%)
-  - Average DTI Ratio (13.3%)
+  - Total Funded Amount 
+  - Average Interest Rate 
+  - Average DTI Ratio 
 * Provide interactive filters for loan purpose, grade, and state analysis
 
 ## Key Features
@@ -36,6 +38,8 @@ Financial institutions face critical challenges in:
 - **Performance Tracking**: MTD/MoM comparisons for all key metrics
 - **Repayment Analysis**: Status tracking (33.2K Fully Paid vs 5.3K Charged Off)
 - **Interactive Dashboard**: Drill-down capabilities by multiple dimensions
+
+![Details]
 
 ## Technical Specifications
 * **Tools**: Power BI Desktop
